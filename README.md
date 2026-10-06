@@ -78,6 +78,7 @@ Evaluated on the unseen test set (19,815 records):
 
 ## 📖 Research Context & Citation
 
-This repository implements the experimental pipeline described in the paper:
-> **"Diabetes Prediction Using Machine Learning: A Comparative Study of Classification Algorithms"**  
-> *Afra Musarrat Diya* — Department of Computer Science, Brac University.
+📄 **Read the full research paper:** [Diabetes_Prediction_Using_MachineLearning.pdf](./Diabetes_Prediction_Using_MachineLearning.pdf)
+
+> **"Diabetes Prediction Using Machine Learning: A Comparative Study of Classification Algorithms"**[cite: 8]  
+> *Afra Musarrat Diya* — Department of Computer Science, Brac University[cite: 8].
